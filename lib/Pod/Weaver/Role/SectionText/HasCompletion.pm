@@ -6,7 +6,7 @@ package Pod::Weaver::Role::SectionText::HasCompletion;
 use 5.010001;
 use Moose::Role;
 
-sub section_text {
+sub section_text_has_completion {
     my ($self, $vars) = @_;
 
     # put here to avoid confusing Pod::Weaver
@@ -76,7 +76,7 @@ L<Pod::Weaver::Section::Completion::PerinciCmdLine>.
 
 =head1 METHODS
 
-=head2 $obj->section_text(\%vars) => str
+=head2 $obj->section_text_has_completion(\%vars) => str
 
 Variables:
 
