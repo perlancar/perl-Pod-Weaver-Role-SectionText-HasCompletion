@@ -20,8 +20,8 @@ sub section_text_has_completion {
     $func_name = "_$func_name";
 
     my $text = <<_;
-The distribution comes with a shell completer script ($completer_name) for this
-script.
+The distribution comes with a shell completer script (L<$completer_name>) for
+this script.
 
 $h2 bash
 
