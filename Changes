@@ -1,4 +1,4 @@
-0.04    2017-07-07 (PERLANCAR)
+0.04    2017-07-07  Released-By: PERLANCAR
 
 	- Replace recommendation that mentions DZP:GenShellCompletion with
 	  cpanm-shcompgen.
@@ -6,17 +6,17 @@
 	- [dist] Enable static install.
 
 
-0.03    2015-08-26 (PERLANCAR)
+0.03    2015-08-26  Released-By: PERLANCAR
 
 	- Formatting.
 
 
-0.02    2015-08-26 (PERLANCAR)
+0.02    2015-08-26  Released-By: PERLANCAR
 
 	- Rename method section_text() -> section_text_has_completion() to
 	  avoid conflict with PWR:SectionText::SelfCompletion.
 
 
-0.01    2015-08-26 (PERLANCAR)
+0.01    2015-08-26  Released-By: PERLANCAR
 
         - First release.
